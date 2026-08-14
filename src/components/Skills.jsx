@@ -49,7 +49,7 @@ const Skills = () => {
         viewport={{ once: true }}
         transition={{ duration: 0.5 }}
       >
-        Technical Arsenal
+        Technical Skills
       </motion.h2>
 
       <div className="grid grid-cols-3">
